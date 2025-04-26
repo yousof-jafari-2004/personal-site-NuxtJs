@@ -1,0 +1,118 @@
+.lalezar {
+    font-family: 'Lalezar';
+}
+
+.vazir-fd {
+    font-family: 'Vazir-fd';
+}
+
+.vazir-bold {
+    font-family: 'Vazir-bold';
+}
+
+.vazir-light {
+    font-family: 'Vazir-light';
+}
+
+.fedra{
+    font-family: 'fedra';
+}
+
+.yekan-thin{
+    font-family: 'yekan-thin';
+}
+
+.yekan-medium{
+    font-family: 'yekan-medium';
+}
+
+.yekan-regular{
+    font-family: 'yekan-regular';
+}
+
+.yekan-bold{
+    font-family: 'yekan-bold';
+}
+
+.yekan-fat{
+    font-family: 'yekan-fat';
+}
+
+.yekan-hairline{
+    font-family: 'yekan-hairline';
+}
+
+.yekan-heavy{
+    font-family: 'yekan-heavy';
+}
+
+.yekan-light{
+    font-family: 'yekan-light';
+}
+
+/* fonts */
+
+@font-face {
+    font-family: 'yekan-thin';
+    src: url(yekan_bakh/YekanBakh-Thin.ttf);
+}
+
+
+@font-face {
+    font-family: 'yekan-medium';
+    src: url(yekan_bakh/YekanBakh-Medium.ttf);
+}
+
+
+@font-face {
+    font-family: 'yekan-regular';
+    src: url(yekan_bakh/YekanBakh-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'yekan-bold';
+    src: url(yekan_bakh/YekanBakh-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'yekan-fat';
+    src: url(yekan_bakh/YekanBakh-Fat.ttf);
+}
+
+@font-face {
+    font-family: 'yekan-hairline';
+    src: url(yekan_bakh/YekanBakh-Hairline.ttf);
+}
+
+@font-face {
+    font-family: 'yekan-heavy';
+    src: url(yekan_bakh/YekanBakh-Heavy.ttf);
+}
+
+@font-face {
+    font-family: 'yekan-light';
+    src: url(yekan_bakh/YekanBakh-Light.ttf);
+}
+
+
+@font-face{
+    font-family: 'fedra';
+    src: url(fedra_arabic.ttf);
+}
+
+/* vazir font */
+@font-face {
+    font-family: 'Vazir-fd';
+    src: url(vazir-font/Vazir-FD-WOL.ttf);
+}
+
+@font-face {
+    font-family: 'Vazir-bold';
+    src: url(vazir-font/Vazir-Bold-FD-WOL.ttf);
+}
+
+@font-face {
+    font-family: 'Vazir-light';
+    src: url(vazir-font/Vazir-Light-FD-WOL.ttf);
+}
